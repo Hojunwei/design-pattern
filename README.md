@@ -6,5 +6,4 @@
 * 创建型模式
 * 结构型模式
 * 行为型模式
-    - 责任链模式
-
+    - [责任链模式](https://github.com/Hojunwei/design-pattern/blob/master/doc/ChainOfResponsibilityPattern.md)
